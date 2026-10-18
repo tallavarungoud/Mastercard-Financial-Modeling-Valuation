@@ -148,6 +148,15 @@ Financial and market data used in this model were collected from publicly availa
 * U.S. Treasury Yield Data (Risk-Free Rate)
 * Financial Market Index Data (for Beta Calculation)
 
+## Key Valuation Output
+
+- **Blended valuation target:** $389.91 per share
+- **Assumed reference price:** $450.00 per share
+- **Implied downside:** 13.35%
+
+The blended valuation output indicates a 13.35% downside relative to the assumed $450 reference price.
+
+**Important note:** The $450 reference price is an assumption in the workbook, not a verified live market quote. The workbook contains differing outputs across valuation methods and scenario sheets; therefore, $389.91 is presented as the model's blended estimate, not a fully reconciled or definitive fair value. This is an educational analysis, not investment advice.
 ---
 
 ## Disclaimer
